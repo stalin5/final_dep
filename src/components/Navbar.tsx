@@ -22,10 +22,10 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border shadow-sm">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
-          {/* Logo */}
+          {/* <img src="../../assets/logo.png" alt="Nli8 Mentor Logo" /> */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="text-2xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-              Ni8 Mentor
+            <div className="text-4xl font-bold  bg-gradient-hero bg-clip-text text-transparent">
+              Nli8 
             </div>
           </Link>
 
