@@ -53,8 +53,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      content: "+91 98765 43210",
-      link: "tel:+919876543210",
+      content: "+91 63790 88867",
+      link: "tel:+91 63790 88867",
       color: "text-secondary",
     },
     {
